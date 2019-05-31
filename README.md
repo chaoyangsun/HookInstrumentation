@@ -1,0 +1,2 @@
+# HookInstrumentation
+Hook ActivityThread里的mInstrumentation来启动一个未注册的Activity
